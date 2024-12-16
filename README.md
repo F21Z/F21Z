@@ -17,6 +17,7 @@ I’m Faizuddin Mohammed, a Computer Science student passionate about building i
 ### 💻 Featured Projects
 - **[Strong Password Generator](https://github.com/F21Z/PasswordGenerator)**
 - **[Electricity Bill Calculator](https://github.com/F21Z/EBill)**
+- **[Gesture Drift](https://github.com/F21Z/GestureDrift)**
 
 
 

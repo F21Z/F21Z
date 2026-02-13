@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Faizuddin Mohammed, a Computer Science student passionate about building innovative software solutions and diving into the world of Artificial Intelligence. Currently in my third year of studies, I’m exploring the intersection of machine learning and software engineering.
+I’m Faizuddin Mohammed, a Computer Science student passionate about building innovative software solutions and diving into the world of Artificial Intelligence. Currently in the final year of my UngerGrad studies, I’m exploring the intersection of Machine Learning and Human Comuter Interaction.
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Python, Java, C
@@ -21,7 +21,7 @@ I’m Faizuddin Mohammed, a Computer Science student passionate about building i
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=f21z&show_icons=true&theme=radical)
+<!--[My GitHub stats](https://github-readme-stats.vercel.app/api?username=f21z&show_icons=true&theme=radical)-->
 
 ### 👥 Let’s Collaborate!
 I’m open to collaborating on exciting projects. Feel free to reach out via [email](mailto:faizuddinrm@gmail.com)!

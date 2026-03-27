@@ -11,13 +11,15 @@ I’m Faizuddin Mohammed, a Computer Science student passionate about building i
 - B.E. in Computer Science Engineering (AI & ML), Osmania University (2022-2026)
 
 ### 📚 Currently Learning
-- Data Structures & Algorithms
-- Machine Learning for Data Science
+- AI Agents
+- Machine Learning in Healthcare and Medicine
 
 ### 💻 Featured Projects
-- **[Strong Password Generator](https://github.com/F21Z/PasswordGenerator)**
-- **[Electricity Bill Calculator](https://github.com/F21Z/EBill)**
+- **[Qiyaam](https://github.com/F21Z/Qiyaam)**
 - **[Gesture Drift](https://github.com/F21Z/GestureDrift)**
+- **[Strong Password Generator](https://github.com/F21Z/PasswordGenerator)**
+<!-- **[Electricity Bill Calculator](https://github.com/F21Z/EBill)**-->
+
 
 
 

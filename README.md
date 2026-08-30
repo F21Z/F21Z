@@ -52,7 +52,7 @@ My passion lies at the intersection of deep learning framework design, automatio
 ---
 
 ## 🎓 Education
-* **Bachelor of Engineering (B.E.) in Computer Science & Engineering (AI & ML)** 
+* **Bachelor of Engineering (B.E.) in Computer Science & Engineering (AI & ML) | CGPA 8.26** 
   * Osmania University
 
 ---
@@ -60,7 +60,6 @@ My passion lies at the intersection of deep learning framework design, automatio
 ## 🤝 Let's Connect!
 I am always open to discussing technical architecture, open-source collaboration, or professional opportunities.
 
-* **Email:** [faizuddinrm@gmail.com](mailto:faizuddinrm@gmail.com)
 * **LinkedIn:** [linkedin.com/in/faizuddinrm](https://linkedin.com/in/faizuddinrm) 
 <!-- * **Portfolio:** [yourportfolio.com](https://yourportfolio.com) -->
 
